@@ -1,1 +1,1 @@
-This code was written for Turbo C++
+The code for UV BANK was written for Turbo C++.
